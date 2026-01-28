@@ -5,7 +5,7 @@ Este proyecto me permite practicar análisis de puertos, IPs y servicios activos
 
 ---
 
-## 🎯 Objetivos
+# Objetivos
 
 - Practicar monitoreo de sistemas y redes.  
 - Automatizar checks básicos de puertos e IPs.  
@@ -14,7 +14,7 @@ Este proyecto me permite practicar análisis de puertos, IPs y servicios activos
 
 ---
 
-## 🚀 Uso
+# Uso
 
 1. Clonar el repositorio:
 
