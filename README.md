@@ -19,5 +19,5 @@ Este proyecto me permite practicar análisis de puertos, IPs y servicios activos
 1. Clonar el repositorio:
 
 ```bash
-git clone git@github.com:Blanco0025/mini-soc-personal.git
+git clone git@github.com:garciamarcone/mini-soc-personal.git
 cd mini-soc-personal
